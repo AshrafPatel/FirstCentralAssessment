@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AseessmentFirstCentral", "AseessmentFirstCentral.csproj", "{54E0DC3B-9AC4-4F7C-91A1-137B652054E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E0DC3B-9AC4-4F7C-91A1-137B652054E5}.Debug|x86.ActiveCfg = Debug|x86
+		{54E0DC3B-9AC4-4F7C-91A1-137B652054E5}.Debug|x86.Build.0 = Debug|x86
+		{54E0DC3B-9AC4-4F7C-91A1-137B652054E5}.Release|x86.ActiveCfg = Release|x86
+		{54E0DC3B-9AC4-4F7C-91A1-137B652054E5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB3B766D-127B-4B06-A69F-3C4DF24E7E34}
+	EndGlobalSection
+EndGlobal

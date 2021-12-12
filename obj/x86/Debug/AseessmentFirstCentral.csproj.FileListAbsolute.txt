@@ -1,0 +1,17 @@
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\bin\Debug\AseessmentFirstCentral.exe.config
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\bin\Debug\AseessmentFirstCentral.exe
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\bin\Debug\AseessmentFirstCentral.pdb
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AseessmentFirstCentral.csproj.AssemblyReference.cache
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AseessmentFirstCentral_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\_AseessmentFirstCentral.g.cs
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\Workflow1.g.cs
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AseessmentFirstCentral_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AseessmentFirstCentral.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AseessmentFirstCentral.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AseessmentFirstCentral.csproj.XamlPass2Flag.txt
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AseessmentFirstCentral.dll
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AseessmentFirstCentral.pdb
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AseessmentFirstCentral.csproj.CoreCompileInputs.cache
+C:\Users\4shr4\source\repos\AseessmentFirstCentral\obj\x86\Debug\AseessmentFirstCentral.exe
