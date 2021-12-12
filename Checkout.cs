@@ -8,14 +8,23 @@ namespace AseessmentFirstCentral
 {
     public class Checkout
     {
-        private decimal total;
+        public List<Item> Items { get; set; }
+        public decimal Price { get; set; }
         public decimal Total()
         {
-            return 0m;
+            foreach (Item item in Items)
+            {
+                Item y;
+
+                if (Offer.Offers.Any(y => y.SKU == item.SKU)) 
+                {
+                    if (item.Quantity >= y.Quantity)
+                }
+            }
         }
         public void Scan(Item item)
         {
-            
+            Items.Add(item);
         }
     }
 }
