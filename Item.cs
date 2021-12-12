@@ -9,13 +9,13 @@ namespace AseessmentFirstCentral
     public class Item
     {
         public string  SKU { get; set; }
-        public decimal Price { get; set; }
+        public double Price { get; set; }
         public int Quantity { get; set; }
 
-        public Item(string sku, int quantity, decimal price)
+        public Item(string sku, double price)
         {
             SKU = sku;
-            Quantity = quantity;
+            Quantity = 1;
             Price = price;
         }
     }

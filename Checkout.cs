@@ -8,9 +8,9 @@ namespace AseessmentFirstCentral
 {
 	public class Checkout
 	{
-		public List<Item> Items { get; set; }
-		public decimal Price { get; set; }
-		public decimal Total()
+		public List<Item> Items = new List<Item>();
+		public double Price { get; set; }
+		public double Total()
 		{
 			foreach (Item item in Items)
 			{
@@ -24,7 +24,7 @@ namespace AseessmentFirstCentral
 
 							if (remainder > 0)
 							{
-								decimal floatNumber = item.Quantity / y.Quantity;
+								double floatNumber = item.Quantity / y.Quantity;
 								int howManyOfferPrice = (int)(floatNumber - Math.Truncate(floatNumber));
 
 								Price += howManyOfferPrice * y.OfferPrice;
@@ -42,7 +42,7 @@ namespace AseessmentFirstCentral
 						}
 					}
 					else if (Offer.Offers.FindIndex(i => i.SKU == item.SKU) < 0)
-                    {
+					{
 						Price += item.Price * item.Quantity;
 					}
 				}
@@ -62,6 +62,19 @@ namespace AseessmentFirstCentral
 			}
 
 			Items.Add(item);
+		}
+
+		public string showCart()
+		{
+
+			string allOffers = "";
+
+			foreach (Item i in Items)
+			{
+				allOffers = i.SKU + " is in the cart its Quantity is " + i.Quantity + " normal Price " + i.Price + "/n";
+			}
+
+			return allOffers;
 		}
 	}
 }

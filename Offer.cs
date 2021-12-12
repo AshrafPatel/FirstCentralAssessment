@@ -8,19 +8,19 @@ namespace AseessmentFirstCentral
 {
     class Offer
     {
-        public static List<Offer> Offers { get; set; }
+        public static List<Offer> Offers = new List<Offer>();
         public string SKU { get; set; }
         public int Quantity { get; set; }
-        public decimal OfferPrice { get; set; }
+        public double OfferPrice { get; set; }
 
-        public Offer(string sku, int quantity, decimal price)
+        public Offer(string sku, int quantity, double price)
         {
             SKU = sku;
             Quantity = quantity;
             OfferPrice = price;
         }
 
-        public string ShowOffers()
+        public static string ShowOffers()
         {
             string allOffers = "";
 
